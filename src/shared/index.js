@@ -1,4 +1,4 @@
-export const ID = 'intl';
+export const ADDON_ID = 'intl';
 
 export const PANEL_ID = `${ID}/panel`;
 
