@@ -5,7 +5,7 @@ export const defaultStyle = {
     border: 0,
     borderRight: '1px solid #d3d3d3',
     borderBottom: '1px solid #d3d3d3',
-    background: 'none',
+    background: '#ccc',
     lineHeight: '30px',
     textAlign: 'center',
     textTransform: 'uppercase',
